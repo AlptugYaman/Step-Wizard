@@ -1,0 +1,3 @@
+Bootstrap kullanýlmýþtýr.
+http://bootsnipp.com/snippets/featured/step-wizard-working
+adresindeki uygulama geliþtirilip Türkçeleþtirilmiþtir.
